@@ -13,18 +13,18 @@
     <shared />
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../stariron_backend">
-      <sourceFolder url="file://$MODULE_DIR$/../../stariron_backend/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../stariron_backend/spec" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../stariron_backend/features" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../stariron_backend/.bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../stariron_backend/components" />
-      <excludeFolder url="file://$MODULE_DIR$/../../stariron_backend/log" />
-      <excludeFolder url="file://$MODULE_DIR$/../../stariron_backend/public/packs" />
-      <excludeFolder url="file://$MODULE_DIR$/../../stariron_backend/public/system" />
-      <excludeFolder url="file://$MODULE_DIR$/../../stariron_backend/tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/../../stariron_backend/vendor/bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../stariron_backend/vendor/cache" />
+    <content url="file://$MODULE_DIR$/../../stariron">
+      <sourceFolder url="file://$MODULE_DIR$/../../stariron/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../stariron/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../stariron/features" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stariron/.bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stariron/components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stariron/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stariron/public/packs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stariron/public/system" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stariron/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stariron/vendor/bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stariron/vendor/cache" />
     </content>
     <orderEntry type="jdk" jdkName="ruby-2.3.7-p456" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
